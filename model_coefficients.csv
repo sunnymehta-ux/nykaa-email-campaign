@@ -1,0 +1,84 @@
+Feature,Coefficient
+Intercept,3.760493486253915
+"Channel_Combo_Email, Google, YouTube",0.8909877872436173
+"Channel_Combo_Instagram, YouTube",0.6009022394051564
+"Channel_Combo_Email, Google",0.554366595838588
+"Channel_Combo_Email, Instagram, YouTube",0.5150870627904901
+"Channel_Combo_Facebook, Instagram, YouTube",0.313575366383808
+"Channel_Combo_Instagram, WhatsApp",0.3002399460571998
+"Channel_Combo_Email, Google, WhatsApp",0.2926273683789955
+"Channel_Combo_Facebook, YouTube",0.2640732261281735
+"Channel_Combo_Email, Facebook, YouTube",0.253291730489798
+Channel_Combo_WhatsApp,0.23764785370883976
+"Channel_Combo_Facebook, Google, YouTube",0.23535450203829708
+"Channel_Combo_Google, YouTube",0.21554847136885485
+"Channel_Combo_Email, Google, Instagram",0.18379712897843556
+Month_July,0.1484867186874759
+Target_Audience_Premium Shoppers,0.13699448448050716
+"Channel_Combo_Google, WhatsApp",0.13692118181949534
+"Channel_Combo_Google, Instagram, WhatsApp",0.12216720432851434
+Month_November,0.10515333653942484
+Weekday_Monday,0.10164377966428487
+Weekday_Thursday,0.09171743132200204
+Language_Hindi,0.08318506331940806
+"Channel_Combo_Email, Facebook, WhatsApp",0.08156090771203107
+Customer_Segment_Tier 2 City Customers,0.08100151207655612
+Channel_Combo_Email,0.07333725028440889
+"Channel_Combo_Email, WhatsApp, YouTube",0.06799882495358871
+Language_Tamil,0.06349788059708757
+Channel_Combo_YouTube,0.05507203032608781
+Month_March,0.05179246809582289
+Weekday_Wednesday,0.050410405650804097
+Quarter_Q4,0.047664491763576775
+"Channel_Combo_Email, Facebook, Google",0.04076321105129821
+Target_Audience_Working Women,0.039747026189105826
+Quarter_Q3,0.03721616149406597
+Weekday_Tuesday,0.03555934355691316
+Weekday_Saturday,0.03092123066206474
+Target_Audience_Youth,0.025523764588153055
+Customer_Segment_Working Women,0.018588484980080328
+Audience_Segment_Match,0.017995640495796217
+Month_January,0.01661679304744478
+Month_December,0.013703601821141801
+Duration,0.008379934527180142
+Month_May,3.897023523071537e-12
+Month_June,-1.1188317669585992e-12
+Acquisition_Cost,-0.0032093812502258577
+Channel_Count,-0.013207765825119755
+"Channel_Combo_Facebook, Google",-0.013878216068508451
+Customer_Segment_Youth,-0.016007332362500227
+Channel_Combo_Instagram,-0.02699741739998182
+Language_English,-0.031295645315316374
+Customer_Segment_Premium Shoppers,-0.03397201952081996
+Quarter_Q1,-0.041624944445963506
+"Channel_Combo_Google, Instagram, YouTube",-0.04196696838137281
+Quarter_Q2,-0.043255709093941115
+Month_April,-0.043255709107640185
+"Channel_Combo_Email, Instagram",-0.044639427468756675
+Customer_Segment_College Students,-0.049610645510942394
+Month_September,-0.05278511739389648
+Month_August,-0.058485439794587216
+"Channel_Combo_Facebook, WhatsApp",-0.063112147706326
+"Channel_Combo_Email, Instagram, WhatsApp",-0.06651338045658788
+Month_October,-0.07119244660861991
+"Channel_Combo_Facebook, Google, Instagram",-0.07161321740586953
+"Channel_Combo_Facebook, WhatsApp, YouTube",-0.07741282756688563
+Target_Audience_Tier 2 City Customers,-0.08489224691688199
+Weekday_Sunday,-0.09777838054150888
+Month_February,-0.1100342055952618
+Language_Bengali,-0.11538729895140899
+Target_Audience_College Students,-0.11737302870951641
+Channel_Combo_Google,-0.1258576546054418
+Channel_Combo_Facebook,-0.1829368260785799
+"Channel_Combo_Instagram, WhatsApp, YouTube",-0.1858485335689652
+"Channel_Combo_Email, Facebook",-0.2120094064813175
+Weekday_Friday,-0.2124738106216144
+"Channel_Combo_Email, YouTube",-0.21249564414294617
+"Channel_Combo_Google, Instagram",-0.2643800168749267
+"Channel_Combo_Facebook, Instagram",-0.34447553654838214
+"Channel_Combo_WhatsApp, YouTube",-0.37885448644174935
+"Channel_Combo_Email, Facebook, Instagram",-0.5718938933820412
+"Channel_Combo_Email, WhatsApp",-0.5855294864040841
+"Channel_Combo_Facebook, Instagram, WhatsApp",-0.6359821857460409
+"Channel_Combo_Google, WhatsApp, YouTube",-0.6437863364352249
+"Channel_Combo_Facebook, Google, WhatsApp",-0.6851362804735386
